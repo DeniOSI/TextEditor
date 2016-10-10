@@ -1,0 +1,1 @@
+c:\users\osipenko\documents\visual studio 2015\Projects\TextEditorEx\TextEditorEx\bin\Debug\TextEditorEx.exe.config
