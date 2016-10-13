@@ -1,1 +1,8 @@
 c:\users\osipenko\documents\visual studio 2015\Projects\TextEditorEx\TextEditorEx\bin\Debug\TextEditorEx.exe.config
+C:\Users\Osipenko\Documents\Visual Studio 2015\Projects\TextEditorEx\TextEditorEx\obj\Debug\TextEditorEx.MainForm.resources
+C:\Users\Osipenko\Documents\Visual Studio 2015\Projects\TextEditorEx\TextEditorEx\obj\Debug\TextEditorEx.Properties.Resources.resources
+C:\Users\Osipenko\Documents\Visual Studio 2015\Projects\TextEditorEx\TextEditorEx\obj\Debug\TextEditorEx.csproj.GenerateResource.Cache
+C:\Users\Osipenko\Documents\Visual Studio 2015\Projects\TextEditorEx\TextEditorEx\bin\Debug\TextEditorEx.exe
+C:\Users\Osipenko\Documents\Visual Studio 2015\Projects\TextEditorEx\TextEditorEx\bin\Debug\TextEditorEx.pdb
+C:\Users\Osipenko\Documents\Visual Studio 2015\Projects\TextEditorEx\TextEditorEx\obj\Debug\TextEditorEx.exe
+C:\Users\Osipenko\Documents\Visual Studio 2015\Projects\TextEditorEx\TextEditorEx\obj\Debug\TextEditorEx.pdb

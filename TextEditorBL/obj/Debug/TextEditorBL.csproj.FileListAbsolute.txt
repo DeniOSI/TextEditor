@@ -1,0 +1,3 @@
+C:\Users\Osipenko\Documents\Visual Studio 2015\Projects\TextEditorEx\TextEditorBL\obj\Debug\TextEditorBL.csprojResolveAssemblyReference.cache
+C:\Users\Osipenko\Documents\Visual Studio 2015\Projects\TextEditorEx\TextEditorBL\obj\Debug\TextEditorBL.Properties.Resources.resources
+C:\Users\Osipenko\Documents\Visual Studio 2015\Projects\TextEditorEx\TextEditorBL\obj\Debug\TextEditorBL.csproj.GenerateResource.Cache
