@@ -7,15 +7,7 @@ using System.Windows.Forms;
 
 namespace TextEditorEx
 {
-    interface IMessage
-    {
-         void ShowMessage(string message);
-
-         void ShowError(string message);
-
-         void ShowExclamation(string massage);
-      
-    }
+   
 
     class Messages: IMessage
     {

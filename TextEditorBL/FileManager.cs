@@ -3,9 +3,11 @@ using System.IO;
 using System.Text;
 
 
-namespace TextEditorBL
+
+namespace TextEditorBL 
 {
-    public class FileManager
+   
+    public class FileManager : ITextEditor
     {
         private readonly Encoding defaultEncode = Encoding.GetEncoding(1251);
         
